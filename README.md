@@ -1,9 +1,8 @@
-🧠 Phase 2 – Your Program Description
+🧠 Phase 2 
 We worked on:
-Title:
 🚀 Federated MNIST Classification using Flower with TensorFlow
-Goal:
-Set up a basic federated learning simulation using the Flower framework, with:
+
+Goal: Set up a basic federated learning simulation using the Flower framework, with:
 
 A CNN model built in TensorFlow/Keras
 Non-distributed (single-machine) simulation
